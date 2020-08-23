@@ -3,7 +3,7 @@
 We propose the Identity-Guided Human Semantic Parsing approach (ISP) to locate both the human body parts and personal belongings at pixel-level for person re-ID only with person identity labels.
 ISP-reID is based on the open project, [reid strong baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 
-![image](https://github.com/CASIA-IVA-Lab/ISP-reID/blob/master/image/introduction.png){:width="200px" height="100px"}
+![image](https://github.com/CASIA-IVA-Lab/ISP-reID/blob/master/image/introduction.png){:width="100px" height="50px"}
 
 ## Installation
 
