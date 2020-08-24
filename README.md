@@ -12,7 +12,7 @@ ISP-reID is based on the open project, [reid strong baseline](https://github.com
 2. Run 'git clone https://github.com/CASIA-IVA-Lab/ISP-reID.git'
 
 3. Install dependencies:
-    - [pytorch>=1.2.0](https://pytorch.org/)
+    - [pytorch>=1.1.0](https://pytorch.org/)
     - torchvision
     - [ignite](https://github.com/pytorch/ignite)
     - [yacs](https://github.com/rbgirshick/yacs)
